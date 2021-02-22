@@ -1,6 +1,7 @@
 # Reading Notes - Code 102
 
 ## About Me
+![Me](https://media-exp1.licdn.com/dms/image/C5603AQGWKEaq5kDPjw/profile-displayphoto-shrink_200_200/0/1551816150405?e=1619654400&v=beta&t=jlqEaijePiX9dD_07vujLPj7PDkAzCdvIsxn1rppSAk)
 My name is Tim (or Timofey) Egorov. I was born in Moscow, Russia, and moved to the United States when I was 4 years old. 
 
 I have 10 years experience in sales (SaaS, promotional, enterprise-level) and am in the process of transitioning to a career in software development. 
