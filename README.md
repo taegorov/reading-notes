@@ -1,6 +1,7 @@
 # This is my site.
 
 - What I've learned so far:
+
 @rogerhuba taught us how to X
 
 ## I want to keep myself in a growth mindset
