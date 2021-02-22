@@ -7,7 +7,7 @@ If you love learning and overcoming obstacles, you might already have a *growth 
 [Here is a handy image illustrating the differences between these mindsets.](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
 
 
-## How to keep myself in a growth mindset:
+## How to keep myself in a *growth mindset*:
 - I can stay positive, even during difficult times
 
 - I can use difficult times as an opportunity to learn
