@@ -4,6 +4,8 @@ A *growth mindset* is a mentality in which someone believes they can constantly 
 
 If you love learning and overcoming obstacles, you might already have a *growth mindset*. 
 
+[Here is a handy image illustrating the differences between these mindsets](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
+
 
 ## How to keep myself in a growth mindset:
 - I can stay positive, even during difficult times
