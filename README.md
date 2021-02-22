@@ -4,7 +4,7 @@ A *growth mindset* is a mentality in which someone believes they can constantly 
 
 If you love learning and overcoming obstacles, you might already have a *growth mindset*. 
 
-[Here is a handy image illustrating the differences between these mindsets](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
+[Here is a handy image illustrating the differences between these mindsets.](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
 
 
 ## How to keep myself in a growth mindset:
@@ -13,6 +13,8 @@ If you love learning and overcoming obstacles, you might already have a *growth 
 - I can use difficult times as an opportunity to learn
 
 - I can take inspiration from the successes of others and reach out when necessary
+
+>A growth mindset opens me up to more creativity and possibility, and I discover I’m able to achieve more and set higher goals.
 
 
 ### To Do List
