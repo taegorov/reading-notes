@@ -32,7 +32,7 @@ def hello_world():
   print('Hellow World')
  ```
 #### External Link
-[This is my link to a Stormlight Archive page](https://www.brandonsanderson.com/the-stormlight-archive-series/)
+[This is my link to a Stormlight Archive page](https://www.brandonsanderson.com/the-stormlight-archive-series/) 
 
 
 
