@@ -15,6 +15,7 @@ If you love learning and overcoming obstacles, you might already have a *growth 
 - I can take inspiration from the successes of others and reach out when necessary
 
 >A growth mindset opens me up to more creativity and possibility, and I discover I’m able to achieve more and set higher goals.
+>
 >-[Steve Haffenden](https://www.atlassian.com/blog/author/shaffenden)
 
 
