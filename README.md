@@ -1,6 +1,6 @@
 # This is my site.
 
-- What I've learned so far:
+What I've learned so far:
 
 
 ## I want to keep myself in a growth mindset
