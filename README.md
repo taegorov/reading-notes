@@ -13,10 +13,10 @@ If you love learning and overcoming obstacles, you might already have a *growth 
 - I can take inspiration from the successes of others and reach out when necessary
 
 
-### heading 3
-* item 1
-* item 2
-* item 3
+### To Do List
+[x] Read 01
+[x] Lab 1a
+[] Lab 1b
 
 #### This is some code on my page
 ```python
