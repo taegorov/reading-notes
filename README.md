@@ -1,5 +1,7 @@
 # This is my site. My name is Tim Egorov.
 
+
+
 ## Growth Mindset ##
 
 A *growth mindset* is a mentality in which someone believes they can constantly improve through effort and perseverance. This is at odds with a *fixed mindset*, which suggests that your intelligence and talent are unchanging. 
