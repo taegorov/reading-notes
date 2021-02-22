@@ -1,5 +1,17 @@
-# This is my site. My name is Tim Egorov.
+# About Me #
+My name is Tim (or Timofey) Egorov. I was born in Moscow, Russia, and moved to the United States when I was 4 years old. 
 
+I have 10 years experience in sales (SaaS, promotional, enterprise-level) and am in the process of transitioning to a career in software development. 
+
+Outside of work, I enjoy:
+* Exercise
+  *  Powerlifting
+  *  Running
+* Reading
+  *  Non-Fiction
+  *  Sci-Fi/Fantasy
+  *  Classics
+* Videogames
 
 
 ## Growth Mindset ##
@@ -35,7 +47,7 @@ If you love learning and overcoming obstacles, you might already have a *growth 
 def hello_world():
   print('Hellow World')
  ```
-#### External link to a ~~dorky~~ cool book :sunglasses:
+#### External link to a ~~dorky~~ cool book  	:sunglasses:
 [This is my link to a Stormlight Archive page](https://www.brandonsanderson.com/the-stormlight-archive-series/) 
 
 
