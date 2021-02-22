@@ -1,3 +1,4 @@
+# Reading Notes - Code 102 #
 # About Me #
 My name is Tim (or Timofey) Egorov. I was born in Moscow, Russia, and moved to the United States when I was 4 years old. 
 
