@@ -1,3 +1,6 @@
+### Table of Contents
+[Reading Class 2](read02.md)
+
 # Reading Notes - Code 102
 
 ## About Me
