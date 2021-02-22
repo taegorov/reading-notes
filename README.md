@@ -15,8 +15,10 @@ If you love learning and overcoming obstacles, you might already have a *growth 
 
 ### To Do List
 [x] Read 01
+
 [x] Lab 1a
-[] Lab 1b
+
+[ ] Lab 1b
 
 #### This is some code on my page
 ```python
