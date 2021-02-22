@@ -25,7 +25,7 @@ If you love learning and overcoming obstacles, you might already have a *growth 
 [Here is a handy image illustrating the differences between these mindsets.](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
 
 
-## How to Keep Myself in a *Growth Mindset*:
+## How to Keep Myself in a *Growth Mindset*: ##
 - I can stay positive, even during difficult times
 
 - I can use difficult times as an opportunity to learn
@@ -37,19 +37,19 @@ If you love learning and overcoming obstacles, you might already have a *growth 
 >-[Steve Haffenden](https://www.atlassian.com/blog/author/shaffenden)
 
 
-## To Do List
+## To Do List ##
 [x] Read 01
 
 [x] Lab 1a
 
 [ ] Lab 1b
 
-#### This is some code on my page
+### This is some code on my page ###
 ```python
 def hello_world():
   print('Hellow World')
  ```
-#### External link to a ~~dorky~~ cool book  	:sunglasses:
+### External link to a ~~dorky~~ cool book:  	:sunglasses: ###
 [This is my link to a Stormlight Archive page](https://www.brandonsanderson.com/the-stormlight-archive-series/) 
 
 
