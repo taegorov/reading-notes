@@ -19,7 +19,7 @@ If you love learning and overcoming obstacles, you might already have a *growth 
 >-[Steve Haffenden](https://www.atlassian.com/blog/author/shaffenden)
 
 
-### To Do List
+## To Do List
 [x] Read 01
 
 [x] Lab 1a
