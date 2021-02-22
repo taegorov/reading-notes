@@ -7,6 +7,12 @@
 
 
 ### heading 3
-#### heading 4
-##### heading 5
-###### heading 6
+* item 1
+* item 2
+* item 3
+
+#### This is some code on my page
+```python
+def hello_world():
+  print('Hellow World')
+ ```
