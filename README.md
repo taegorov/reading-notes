@@ -1,14 +1,16 @@
 # This is my site.
 
-What I've learned so far:
+A *growth mindset* is a mentality in which someone believes they can constantly improve through effort and perseverance. This is at odds with a *fixed mindset*, which suggests that your intelligence and talent are unchanging. 
+
+If you love learning and overcoming obstacles, you might already have a growth mindset. 
 
 
-## I want to keep myself in a growth mindset
-[x] I can stay positive
+## How to keep myself in a growth mindset:
+- I can stay positive, even during difficult times
 
-[x] I can continue to learn
+- I can use difficult times as an opportunity to learn
 
-[x] I can encourage others
+- I can take inspiration from the successes of others and reach out when necessary
 
 
 ### heading 3
