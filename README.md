@@ -1,5 +1,11 @@
 # This is my site.
-## heading 2
+
+## I want to keep myself in a growth mindset
+- I can stay positive
+- I can continue to learn
+- I can encourage others
+
+
 ### heading 3
 #### heading 4
 ##### heading 5
