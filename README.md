@@ -4,7 +4,7 @@
 
 [Reading Day 2](day2.md)
 
-[Read03](read03.md)
+[Read04](read04.md)
 
 
 # Reading Notes - Code 102
