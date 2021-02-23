@@ -13,3 +13,5 @@ Version Type | Notes
 ------------ | -------------
 Local Version Control (Local VCS) | The content on your hard drive
 Centralized Version Control (CVCS) | Came about due to a need for collaboration.
+more notes here
+Distributed Version Control (DVCS) | more notes here
