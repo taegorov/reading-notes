@@ -66,6 +66,7 @@ This is where I document my reading for this lab.
 - `..` references parent directory
 - `cd [location]` changes your directory
 - `file [path]` shows what type of file something is
+- `ls -a` shows hidden files
 
 # Other Notes
 
@@ -90,4 +91,10 @@ Paths
 
 #### About Files
 - A computer sees **everything** as a file
-- 
+- Case sensitivity **matters**
+- If moving a file into a folder that contains a space (e.g., "Honeymoon Pics"), make sure to put that directory in single quotes
+  - Otherwise the space is seen as a separate command
+  - An "escape character" (\) works as well
+    - This would appear as "Honeymoon\ Pics"
+  - Tab completion does this for you!
+-  
