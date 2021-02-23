@@ -23,7 +23,7 @@ You can work on projects even when not connected to the internet, then upload la
 
 Git protects against file corruption and irreversible file damage.
 
-##### [Git States](https://blog.udemy.com/wp-content/uploads/2015/08/image066.png)
+#### [Git States](https://blog.udemy.com/wp-content/uploads/2015/08/image066.png)
 State | Notes
 ------------ | -------------
 Committed | Data is saved on your hard drive (or local database)
