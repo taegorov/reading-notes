@@ -45,8 +45,11 @@ How your workflow should look.
 ## Useful Commands
 
 `git status` displays whether your 'branch' is up to date or not
+
 `git add <file>` adds a repository to your local computer
+
 `git commit -m "type your message here"` commits your changes. Make sure to add a message reflecting what specific changes were made. **THESE CHANGES ARE PUBLIC AND POTENTIAL EMPLOYERS WILL SEE THEM**
+
 `git push origin main` syncs your changes with your GitHub page 
 
 
