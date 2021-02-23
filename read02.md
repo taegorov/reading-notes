@@ -4,6 +4,7 @@
 This is where I document my reading for this lab.
 
 #### Choosing a Text Editor
+
 - We'll be writing a lot of code, a good text editor will be invaluable
 - Text editor is entirely a personal choice, they're all pretty similar
   -  As long as the text editor you choose can complete a website to your liking
@@ -52,7 +53,13 @@ This is where I document my reading for this lab.
     - Debugging
   - Microsoft Outlook is a good example 
 
+# Cheat Sheet for Terminal Use
+
 #### The Command Line
+
+- A command is usually the first thing you type
+- command `echo` displays a system variable
+
 
 #### Basic Navigation
 
