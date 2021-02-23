@@ -7,7 +7,9 @@
 
 ## Version Control
 
-First Header | Second Header
+Version Control System (VCS)
+
+Version Type | Notes
 ------------ | -------------
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
+Local Version Control (Local VCS) | The content on your hard drive
+Centralized Version Control (CVCS) | Came about due to a need for collaboration.
