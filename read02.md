@@ -3,7 +3,7 @@
 
 [Reading Day 2](day2.md)
 
-This is where I document my reading for this lab.
+# Reading Notes Day 1
 
 #### Choosing a Text Editor
 
