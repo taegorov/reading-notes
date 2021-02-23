@@ -40,3 +40,6 @@ How your workflow should look.
 **Commit** or save those changes
 
 **Push** those changes to a service like GitHub
+
+
+This is where I have added more notes for Lab: 03
