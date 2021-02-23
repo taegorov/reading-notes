@@ -72,6 +72,7 @@ This is where I document my reading for this lab.
 - `~` is a shortcut to your home directory
 - `.` references your current directory
 - `..` references parent directory
+- `cd [location]` changes your directory
 
 Paths
 - A path is a means to get to a particular file or directory on the system 
@@ -82,4 +83,7 @@ Paths
   - Specify a location relative to where you are in the system
   - Do not begin with a slash
 
+- Tab completion is a form of autocorrect. Can be invoked by pressing **tab**
+
 #### About Files
+
