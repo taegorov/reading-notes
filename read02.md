@@ -55,14 +55,6 @@ This is where I document my reading for this lab.
 
 # Cheat Sheet for Terminal Use
 
-#### The Command Line
-
-- A command is usually the first thing you type
-- `echo` displays a system variable
-- You can navigate and edit previous commands using the arrow keys
-
-#### Basic Navigation
-
 - `pwd` shows you your current directory
 - `ls` shows you what files are in your current directory
   - `ls [options] [location]` is how it is usually formatted
@@ -73,6 +65,17 @@ This is where I document my reading for this lab.
 - `.` references your current directory
 - `..` references parent directory
 - `cd [location]` changes your directory
+- `file [path]` shows what type of file something is
+
+# Other Notes
+
+#### The Command Line
+
+- A command is usually the first thing you type
+- `echo` displays a system variable
+- You can navigate and edit previous commands using the arrow keys
+
+#### Basic Navigation
 
 Paths
 - A path is a means to get to a particular file or directory on the system 
@@ -86,4 +89,5 @@ Paths
 - Tab completion is a form of autocorrect. Can be invoked by pressing **tab**
 
 #### About Files
-
+- A computer sees **everything** as a file
+- 
