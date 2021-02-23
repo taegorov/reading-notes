@@ -44,6 +44,13 @@ This is where I document my reading for this lab.
     - Created by Adobe
   - Sublime Text
     - $70 for full version 
+- Integrated Development Environment (IDE)
+  - Combines features like these:
+    - Text editing
+    - File Management
+    - Compiling
+    - Debugging
+  - Microsoft Outlook is a good example 
 
 #### The Command Line
 
