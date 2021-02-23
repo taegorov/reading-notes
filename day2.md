@@ -41,6 +41,7 @@ How your workflow should look.
 
 **Push** those changes to a service like GitHub
 
+
 ## Useful Commands
 
 `git status` displays whether your 'branch' is up to date or not
