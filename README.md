@@ -1,5 +1,6 @@
 ### Table of Contents
 [Reading Day 1](read02.md)
+
 [Reading Day 2](day2.md)
 
 # Reading Notes - Code 102
