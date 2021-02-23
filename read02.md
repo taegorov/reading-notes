@@ -69,8 +69,17 @@ This is where I document my reading for this lab.
 - `ls -l` shows a long listing
 - `ls /etc` shows directory's *contents*
 - `ls -l /etc` shows both a command line option and argument
+- `~` is a shortcut to your home directory
+- `.` references your current directory
+- `..` references parent directory
 
 Paths
 - A path is a means to get to a particular file or directory on the system 
+- Absolute paths
+  - Show location in relation to root directory
+  - Start with a forward slash (/)
+- Relative
+  - Specify a location relative to where you are in the system
+  - Do not begin with a slash
 
 #### About Files
