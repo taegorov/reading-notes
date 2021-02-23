@@ -11,6 +11,6 @@ Version Control System (VCS)
 
 Version Type | Notes
 ------------ | -------------
-Local Version Control (Local VCS) | The content on your hard drive
+Local Version Control (Local VCS) | The content lives on your hard drive
 Centralized Version Control (CVCS) | Came about due to a need for collaboration <br> Files stores on a server <br> Can be accessed by multiple users <br> **Collaborative**
-Distributed Version Control (DVCS) | more notes here
+Distributed Version Control (DVCS) | Like a CVS, but files (repositories) are stored in multiple places <br> 
