@@ -12,10 +12,14 @@ This is where I document my reading for this lab.
   -  Super important for people learning to create websites
 - Some important features:
   - Code completion
-    -  Like predictive text for your phone, but with code
-  3. Syntax highlighting
-  4. Variety of themes to reduce strain on the eyes
-  5. Extension choice
+    -  Like predictive text and autocorrect on your phone, but with code
+  - Syntax highlighting
+    - Important elements are color-coded to make writing code simpler
+    - Makes code easier to read, and helps you find what you're looking for
+  - Variety of themes
+    - Some themes (darker ones especially) can reduce eye strain
+  - Extension choice
+    - Adds functionality as you learn more coding techniques
 - 
 
 #### The Command Line
