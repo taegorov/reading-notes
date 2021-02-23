@@ -97,4 +97,3 @@ Paths
   - An "escape character" (\) works as well
     - This would appear as "Honeymoon\ Pics"
   - Tab completion does this for you!
--  
