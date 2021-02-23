@@ -20,7 +20,30 @@ This is where I document my reading for this lab.
     - Some themes (darker ones especially) can reduce eye strain
   - Extension choice
     - Adds functionality as you learn more coding techniques
-- 
+- Always code in **plain text**. Your text editor shouldn't allow you to change font sizes, add italics, etc.
+- Use proper file extension names
+  - .html for HTML files
+  - .css for CSS files
+- **Third party text editors**
+  - Notepad++
+    - Windows only
+    - Free
+  - TextWrangler/BB Edit
+    - Mac only
+    - TextWrangler is defunct, BB Edit costs money ($50)
+  - Visual Studio Code
+    - Windows, Mac, and Linux compatible
+    - Free
+  - Atom
+    - Windows, Mac, and Linux compatible
+    - Free
+    - Created by GitHub
+  - Brackets
+    - Windows, Mac, and Linux compatible
+    - Free
+    - Created by Adobe
+  - Sublime Text
+    - $70 for full version 
 
 #### The Command Line
 
