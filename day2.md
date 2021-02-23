@@ -31,3 +31,11 @@ Modified | Data is changed but not "saved" (committed)
 Staged | File ready to be committed
 
 ## Add - Commit - Push
+
+How your workflow should look.
+
+**Add** changes
+
+**Commit** or save those changes
+
+**Push** those changes to a service like GitHub
