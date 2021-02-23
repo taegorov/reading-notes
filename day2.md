@@ -44,3 +44,5 @@ How your workflow should look.
 
 ## Lab 03
 This is where I have added more notes for Lab: 03
+
+These notes were added via *Visual Studio Code,* then pushed to GitHub via *Ubuntu* 
