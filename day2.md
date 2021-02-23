@@ -3,6 +3,8 @@
 
 [Reading Day 1](read02.md)
 
+[Read04](read04.md)
+
 # Reading Notes Day 2
 
 ## Version Control
