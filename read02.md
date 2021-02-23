@@ -58,10 +58,19 @@ This is where I document my reading for this lab.
 #### The Command Line
 
 - A command is usually the first thing you type
-- command `echo` displays a system variable
+- `echo` displays a system variable
 - You can navigate and edit previous commands using the arrow keys
 
-
 #### Basic Navigation
+
+- `pwd` shows you your current directory
+- `ls` shows you what files are in your current directory
+  - `ls [options] [location]` is how it is usually formatted
+- `ls -l` shows a long listing
+- `ls /etc` shows directory's *contents*
+- `ls -l /etc` shows both a command line option and argument
+
+Paths
+- A path is a means to get to a particular file or directory on the system 
 
 #### About Files
