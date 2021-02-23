@@ -59,6 +59,7 @@ This is where I document my reading for this lab.
 
 - A command is usually the first thing you type
 - command `echo` displays a system variable
+- You can navigate and edit previous commands using the arrow keys
 
 
 #### Basic Navigation
