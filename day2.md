@@ -42,4 +42,5 @@ How your workflow should look.
 **Push** those changes to a service like GitHub
 
 
+## Lab 03
 This is where I have added more notes for Lab: 03
