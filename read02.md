@@ -3,6 +3,8 @@
 
 [Reading Day 2](day2.md)
 
+[Read04](read04.md)
+
 # Reading Notes Day 1
 
 #### Choosing a Text Editor
