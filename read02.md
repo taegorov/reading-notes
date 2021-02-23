@@ -1,5 +1,6 @@
 ### Table of Contents
 [Home](README.md)
+[Reading Day 2](day2.md)
 
 This is where I document my reading for this lab.
 
