@@ -30,3 +30,4 @@ Committed | Data is saved on your hard drive (or local database)
 Modified | Data is changed but not "saved" (committed)
 Staged | File ready to be committed
 
+## Add - Commit - Push
