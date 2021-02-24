@@ -6,6 +6,8 @@
 
 [Reading Day 2](day2.md)
 
+[Read05](read05.md)
+
 # Chapter 18 Process & Design - Notes
 
 ## What kind of page you want to design
@@ -19,7 +21,7 @@
 
 ## Site Design
 
-- | - | Home | - | -
+x | - | Home | - | -
 ------------- | ------------- | -------------| -------------| -------------
 About | Articles | Visit | Shop | Contact
 History | News | Location | Merch | -
@@ -49,7 +51,12 @@ Wireframe image goes here
 - Add comments to your code (these won't appear on your site):
 > `<!-- comment here -->` 
 
-- ID attributes with:
+- Add ID attributes with:
 > `<p id="id name">`
+
+- Add class attributes with:
+> `<p class="class name">`
+
+- 
 
 More notes go here, but I didn't finish Chapter 8 on time

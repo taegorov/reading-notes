@@ -5,6 +5,8 @@
 
 [Read04](read04.md)
 
+[Read05](read05.md)
+
 # Reading Notes Day 2
 
 ## Version Control
