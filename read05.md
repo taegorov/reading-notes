@@ -8,6 +8,8 @@
 
 [Read04](read04.md)
 
+[Read06a](read06a.md)
+
 # Chapter 11: Color - Notes
 
 ### Foreground Color

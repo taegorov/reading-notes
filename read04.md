@@ -8,6 +8,8 @@
 
 [Read05](read05.md)
 
+[Read06a](read06a.md)
+
 # Chapter 18 Process & Design - Notes
 
 ## What kind of page you want to design
