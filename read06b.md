@@ -12,6 +12,10 @@
 
 [Read06a](read06a.md)
 
+[Read07](read07.md)
+
+[Read08](read08.md)
+
 # Computer Architecture and Logic - Notes
 
 Computers are **everywhere**
