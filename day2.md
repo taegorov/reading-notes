@@ -9,6 +9,8 @@
 
 [Read06a](read06a.md)
 
+[Read06b](read06b.md)
+
 # Reading Notes Day 2
 
 ## Version Control

@@ -10,6 +10,8 @@
 
 [Read06a](read06a.md)
 
+[Read06b](read06b.md)
+
 # Reading Notes - Code 102
 
 ## About Me

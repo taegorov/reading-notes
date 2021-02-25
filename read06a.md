@@ -10,6 +10,8 @@
 
 [Read05](read05.md)
 
+[Read06b](read06b.md)
+
 # JavaScript & jQuery Pages 43-69 - Notes
 
 ### HTML, CSS, and JavaScript - How they Work Together
