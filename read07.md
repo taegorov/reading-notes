@@ -98,3 +98,31 @@ There are many arithmetic operators that you might recognize from math class, bu
 
 Functions combine statements together so you don't have to keep reusing individual functions
 
+Helps with code organization
+
+**Calling a function** means you're telling a function to do its own task. 
+> ...statements are not run until the function is called
+
+Functions need info to perform their tasks. These are called **parameters**
+
+**Return values** are when a function gives you an answer when you ask for it
+
+### Declaring Function Example
+
+> `function userName() {`
+
+>`document.write('this is your username');`
+
+>`}`
+
+>`userName();`
+
+- All of the above is a **code block**
+- Function keyword is `function`
+- `userName` is function name
+- the `username();` at the end is how you call the function
+
+### Other Notes
+
+You can use parameters to have code do a task without knowing all the information up front. For example, you can have a function multiply height by width, then decide what numeric values height and width have later on
+
