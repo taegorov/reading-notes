@@ -16,6 +16,38 @@
 
 [Read08](read08.md)
 
+### 201 Reading Note Links:
+
+[Read201-01](read201-01)
+
+[Read201-02](read201-02)
+
+[Read201-03](read201-03)
+
+[Read201-04](read201-04)
+
+[Read201-05](read201-05)
+
+[Read201-06](read201-06)
+
+[Read201-07](read201-07)
+
+[Read201-08](read201-08)
+
+[Read201-09](read201-09)
+
+[Read201-10](read201-10)
+
+[Read201-11](read201-11)
+
+[Read201-12](read201-12)
+
+[Read201-13](read201-13)
+
+[Read201-14](read201-14)
+
+[Read201-15](read201-15)
+
 # Reading Notes - Code 102
 
 ## About Me
