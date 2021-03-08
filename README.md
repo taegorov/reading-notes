@@ -74,5 +74,4 @@ def hello_world():
 [This is my link to a Stormlight Archive page](https://www.brandonsanderson.com/the-stormlight-archive-series/) 
 
 
-
-
+# Code 102 Reading Notes
