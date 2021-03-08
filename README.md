@@ -18,35 +18,35 @@
 
 ### 201 Reading Note Links:
 
-[Read201-01](read201-01)
+[201 - Read01](class-01.md)
 
-[Read201-02](read201-02)
+[201 - Read02](class-02.md)
 
-[Read201-03](read201-03)
+[201 - Read03](class-03.md)
 
-[Read201-04](read201-04)
+[201 - Read04](class-04.md)
 
-[Read201-05](read201-05)
+[201 - Read05](class-05.md)
 
-[Read201-06](read201-06)
+[201 - Read06](class-06.md)
 
-[Read201-07](read201-07)
+[201 - Read07](class-07.md)
 
-[Read201-08](read201-08)
+[201 - Read08](class-08.md)
 
-[Read201-09](read201-09)
+[201 - Read09](class-09.md)
 
-[Read201-10](read201-10)
+[201 - Read10](class-10.md)
 
-[Read201-11](read201-11)
+[201 - Read11](class-11.md)
 
-[Read201-12](read201-12)
+[201 - Read12](class-12.md)
 
-[Read201-13](read201-13)
+[201 - Read13](class-13.md)
 
-[Read201-14](read201-14)
+[201 - Read14](class-14.md)
 
-[Read201-15](read201-15)
+[201 - Read15](class-15.md)
 
 # Reading Notes - Code 102
 
