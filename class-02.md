@@ -2,7 +2,7 @@
 [Home](README.md)
 
 
-### Notes - Chapter 2: “Text” (pp.40-61)'
+### Notes - Chapter 2: “Text” (pp.40-61)
 
 ##### Structural Markup Cheatsheet:
 The following need closing tags (`</p>`, for example) unless otherwise indicated
