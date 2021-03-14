@@ -5,7 +5,18 @@
 
 ### Notes - Chapter 5: “Images” (pp.94-125)
 
+- It's good practice to keep all your images in a folder to keep you organized. In class, we've been adding "/img" to our VSC
 
+- Add images to html with `<img>`
+  - `<img src ="url">`
+  - `<img alt = "desciption">`
+  - `<img title = "additional info">`
+
+- jpg, png, or gif if using rasterized images
+
+- Use vector files when possible
+
+- **Give credit when using images**
 
 ### Notes - Chapter 11: “Color” (pp.246-263)
 
@@ -83,4 +94,36 @@ Fourth value listed here changes Alpha (or opacity)
 
 ### Notes - Chapter 12: “Text” (pp.264-299)
 
+- Serif vs. Sans-Serif vs. Monospace
+  - Discussed in class. Serifs are the little fancy tails on some fonts, "sans serif" means without serifs, monospace means every letter is the same width (good for programming)
+
+- Choose font with `font-family: ;`
+
+- Choose font size with `font-size: ;`
+
+- Align text horizontally with `text-align: '`
+
+- Align text vertically (along an image, for example) with `vertical-align: ;`
+
+- Indent text with `text-indent: ;`
+
+- Add shadow to text with `text-shadow: ;`
+
+- Stylize links (useful for nav bar) with `a:visited`, `a:hover`, `a:active`, `a:focus`
+
+- Other attribute selectors:
+  - `[=""]` targets a particular class/id
+  - `[~=""]` targets things separated by a space
+  - `[attr^=""]` targets things that start with a certain letter
+  - `[attr*""]` targets things that contain a string of letters
+  - `[attr$""]` targets things that end in a certain letter
+
 ### Notes - Blog Post JPEG vs PNG vs GIF
+
+- Use JPG for landscapes or photographs
+  
+- Use PNG for images that might use transparency or sharp edge contrast
+  
+- Use GIF for animations
+  
+- PNG is largest of the 3
