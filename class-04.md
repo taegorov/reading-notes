@@ -1,7 +1,7 @@
 ### Link Home:
 [Home](README.md)
 
-# Reading Notes Code 201: Day 3
+# Reading Notes Code 201: Day 4
 
 ### Notes - Chapter 4: Ch.4 “Links” (pp.74-93)
 

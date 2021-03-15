@@ -1,7 +1,7 @@
 ### Link Home:
 [Home](README.md)
 
-# Reading Notes Code 201: Day 3
+# Reading Notes Code 201: Day 5
 
 ### Notes - Chapter 5: “Images” (pp.94-125)
 

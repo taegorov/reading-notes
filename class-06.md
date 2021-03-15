@@ -1,7 +1,7 @@
 ### Link Home:
 [Home](README.md)
 
-# Reading Notes Code 201: Day 3
+# Reading Notes Code 201: Day 6
 
 ### Notes - Understanding The Problem Domain Is The Hardest Part Of Programming
 
@@ -77,4 +77,3 @@ Awesome flowchart showing looping through a NodeList shown on pages 206-207 of *
 - Many advantages and disadvantages to each.
 
 `hasAttribute()` lets you check if an attribute already exists somewhere else in your code.
-
