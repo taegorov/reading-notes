@@ -48,3 +48,33 @@ If a function is in an object, it becomes a method
 - Example would be `let userName = user.name;`
 
 ### Notes - Chapter 5: “Document Object Model” (pp.183-242)
+
+Document Object Model = DOM. It is not part of HTML or JavaScript. It has its own rules. It is a "model of a webpage." (*Jon Duckett, JavaScript & JQuery, page 186*)
+
+Also known as an **Application Programming Interface** aka API. We're getting to API's!
+
+Made of 4 types of nodes:
+1. Document Node
+2. Element Node
+3. Attribute Node
+4. Text Node
+
+Full breakdown of these nodes on page 186-189 of *JavaScript & JQuery*. It's worth checking out. It shows how to pick the element you want to edit.
+
+Pages will load quicker if you're efficient with calling out elements, calling out the fewest number of nodes in order to change something.
+
+`getElementByID()` and `querySelector()` are very similar.
+
+NodeLists are like arrays in that their list of values start at 0.
+- You can test their length with `length`
+- Retrieve something from a nodelist with `item[]`
+
+This stuff is strangely similar to the CSS selector game we had for Lab 05c.
+
+Awesome flowchart showing looping through a NodeList shown on pages 206-207 of *JavaScript & JQuery*!
+
+`document.write()` vs `element.innerHTML` vs DOM Manipulation
+- Many advantages and disadvantages to each.
+
+`hasAttribute()` lets you check if an attribute already exists somewhere else in your code.
+
