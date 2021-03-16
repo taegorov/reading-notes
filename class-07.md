@@ -27,6 +27,74 @@ This article is a perfect summary of what we did in lab today!
 
 ### Notes - Chapter 6: “Tables” (pp.126-145)
 
+Create table wit `<table>`
 
+`<tr>` indicates the start of each row
+
+`<td>` represents the data in the cell
+
+`<th>` = table heading -- **remember to add info to an empty cell** otherwise formatting will be wonky
+
+`<td colspan="[number here]">` allows one cell to extend across multiple columns
+
+`<td rowspan="[number here]">` allows one cell to extend across multiple rows
+
+`<thead>` contains table headings
+
+`<tbody>` contains the body of the table
+
+`<tfoot>` contains the footer
+
+**Note**: `<thead>`, `<tbody>`, and `<tfoot>` are for really long/tall tables that will display the header and footer even if a user scrolls
 
 ### Notes - Chapter 3: “Functions, Methods, and Objects” (pp.106-144)
+
+Objects allow you to store many pieces of data within one function. Objects can have many things like names, descriptions, heights, locations, numbers, etc. 
+
+Create many objects like so:
+
+```
+function restaurant(name, tables, reserved) {
+this.name = name;
+this.tables = tables;
+this.reserved = reserved;
+}
+```
+
+Then add any new restaurants by doing this:
+
+```
+let timsRestaurant = new restaurant('Tim\'s Restaurant', 30, 10);
+let marisasRestaurant = new restaurant(Marisa\'s Restaurant', 20, 18);
+```
+
+You can use the above information to dynamically update a web page to display the available tables at either Tim's Restaurant or Marisa's Restaurant. You'd just have the reserved subtracted from tables!
+
+As we learned in Lab06, *arrays are objects*! They just hold many pieces of data that you can access with an index number (usually "`i`").
+
+#### Methods of Document Object Model:
+
+`document.write()` - simply displays text
+
+`document.getElementById()` - returns an element
+
+`document.querySelectorAll()` - shows a list of elements that correspond with a CSS selector
+
+` document.createElement` - creates an element
+
+`document.createTextNode` - creates a text node
+
+Really helpful ways of selecting particular elements of a string (just lower case letters/just character # 5, just the very last character, delete white space, etc.) **on page 128-129** of Jon Duckett's *JavaScript & JQuery*.
+
+An **object** is considered a "complex data type."
+
+An **integer** = a whole number
+
+`Math.round()` rounds to nearest integer
+
+`Math.ceil()` rounds up to nearest integer
+
+`Math.floor()` rounds down to nearest integer
+
+`Math.random()` creates a random number
+
