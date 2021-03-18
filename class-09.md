@@ -111,3 +111,40 @@ ul {
 
 ---
 ### Notes - JS Book, Chapter 6: “Events” (pp.243-292)
+
+> When you browse the web, your browser registers different types of events. It's the browsers way of saying, "Hey, this just happened." Your script can respond to these events.
+> 
+> -Jon Duckett, JavaScript & JQuery, page 244
+
+Types of events (among many):
+
+- load (page has loaded)
+- error (page comes across a JS error)
+- resize (window is resized)
+- scroll (visitor scrolls up or down)
+- keydown (button is pressed)
+- click (a button is pressed)
+- mouseout (mouse moves off an element)
+- focus (element is in focus)
+- submit (form is submitted)
+- copy (content is copied in a form field)
+- paste (content is pasted)
+
+How code is triggered by an event:
+
+(Text in quotations is taken from Jon Duckett *JavaScript & JQuery* page 249)
+
+1. Element is decided on ("select an element")
+2. An event within that element will create a response ("specify event")
+3. Code that will run once that event happens ("call code")
+
+`element.onevent` is how you attach an event to an element
+
+`addEventListener` can recognize several functions simultaneously
+
+#### Event Bubbling vs Event Capturing with regards to Event Flow
+
+In *Event Bubbling* the event flows outward from a specific node to the least specific. This is the **default**.
+
+In *Event Capturing* the event flows inward from the least specific no to the most specific.
+
