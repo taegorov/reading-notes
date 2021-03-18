@@ -1,6 +1,7 @@
 ### Link Home:
 [Home](README.md)
 
+# Reading Notes Code 201: Day 2
 
 ### Notes - Chapter 2: “Text” (pp.40-61)
 
