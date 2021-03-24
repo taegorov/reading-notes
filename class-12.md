@@ -1,7 +1,7 @@
 ### Link Home:
 [Home](README.md)
 
-# Reading Notes Code 201: Day 11
+# Reading Notes Code 201: Day 12
 
 ### Notes - Easily Create Stunning Animated Charts with Chart.Js 
 
