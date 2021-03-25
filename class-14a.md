@@ -3,7 +3,7 @@
 
 # Reading Notes Code 201: Day 14a
 
-### Notes - CSS Transforms Article
+For today's reading, we learned a ton of cool new ways to add CSS styling to our page (or more specifically, the elements on our page). I have listed some that stood out to me below.
 
 `transform` comes in 2D and 3D applications. It's not super well supported by browsers yet, but will be with time (as is tradition).
 
@@ -62,17 +62,57 @@ Z Axis can also be changed on elements, which changes their third dimension. For
 
 `backface-visibility: hidden` means that an element will not show it's back side if, for example, it is rotated in a way where the back side would show. If this is not indicated, then you'll see a reverse image of the element.
 
-### CSS Transitions & Animations Article
 
+> With CSS3 transitions you have the potential to alter the appearance and behavior of an element whenever a state change occurs, such as when it is hovered over, focused on, active, or targeted.
+>
+> - https://learn.shayhowe.com/advanced-html-css/transitions-animations/
 
-### 8 simple CSS3 transitions that will wow your users
+Different "states" are : `:hover`, `:focus`, `:active`, and `:target` 
 
+A lot of the examples shown [in this article](https://learn.shayhowe.com/advanced-html-css/transitions-animations/) remind me of the transitions that I was able to apply to items using Macromedia Flash back in the day! Big time nostalgia.
 
-### 6 Buttons animated
+Excellent example of a transition here:
 
+```
+.box {
+    background: #2db34a;
+    border-radius: 6px
+    transition-property: background, border-radius;
+    transition-duration: 1s;
+    transition-timing-function: linear;
+  }
+  .box:hover {
+    background: #ff7b29;
+    border-radius: 50%;
+  }
+```
 
-### CSS3 Animations: Keyframes
+> -source: https://learn.shayhowe.com/advanced-html-css/transitions-animations/
 
-### 404
+Popular transition properties are listed in the article as well, about 1/3 of the way down the page.
 
-### Pure CSS Bounce Animation
+`transition-delay` changes how long it takes for the transition to start occurring. 
+
+**Super cool button example here:**
+
+```
+button {
+  border: 0;
+  background: #0087cc;
+  border-radius: 4px;
+  box-shadow: 0 5px 0 #006599;
+  color: #fff;
+  cursor: pointer;
+  font: inherit;
+  margin: 0;
+  outline: 0;
+  padding: 12px 20px;
+  transition: all .1s linear;
+}
+button:active {
+  box-shadow: 0 2px 0 #006599;
+  transform: translateY(3px);
+}
+```
+
+The rest of the readings were absolutely incredible (and *advanced*) examples of CSS application. I definitely bookmarked them!
