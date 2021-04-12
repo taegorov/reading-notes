@@ -50,6 +50,10 @@
 
 [201 - Read15](class-15.md)
 
+### 301 Reading Note Links:
+
+[301 - Read01](301-01.md)
+
 # Reading Notes - Code 102
 
 ## About Me
