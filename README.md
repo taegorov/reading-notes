@@ -58,6 +58,8 @@
 
 [301 - Read03](301-03.md)
 
+[301 - Read04](301-04.md)
+
 # Reading Notes - Code 102
 
 ## About Me
