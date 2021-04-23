@@ -70,6 +70,8 @@
 
 [301 - Read09](301-09.md)
 
+[301 - Read10](301-10.md)
+
 # Reading Notes - Code 102
 
 ## About Me
