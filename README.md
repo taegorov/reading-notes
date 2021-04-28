@@ -76,6 +76,8 @@
 
 [301 - Read12](301-12.md)
 
+[301 - Read13](301-13.md)
+
 # Reading Notes - Code 102
 
 ## About Me
