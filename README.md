@@ -1,4 +1,10 @@
-### Table of Contents
+# Reading Notes
+
+These are my  notes for Code Fellows readings and videos for courses 102-401.
+
+# Table of Contents
+
+## Code 102 - Intro to Software Development
 
 [Reading Day 1](read02.md)
 
@@ -16,7 +22,7 @@
 
 [Read08](read08.md)
 
-### 201 Reading Note Links:
+## Code 201 - Foundations of Software Development
 
 [201 - Read01](class-01.md)
 
@@ -50,7 +56,7 @@
 
 [201 - Read15](class-15.md)
 
-### 301 Reading Note Links:
+## Code 301 - Intermediate Software Development
 
 [301 - Read01](301-01.md)
 
@@ -72,7 +78,7 @@
 
 [301 - Read10](301-10.md)
 
-# Reading Notes - Code 102
+## Code 401 - Advanced Software Development
 
 ## About Me
 
@@ -124,10 +130,7 @@ If you love learning and overcoming obstacles, you might already have a *growth 
 ### This is some code on my page
 ```python
 def hello_world():
-  print('Hellow World')
+  print('Hello World')
  ```
-### External link to a ~~dorky~~ cool book:  	:sunglasses:
+### External link to a ~~dorky~~ cool book:  	😎
 [This is my link to a Stormlight Archive page](https://www.brandonsanderson.com/the-stormlight-archive-series/) 
-
-
-# Code 102 Reading Notes
