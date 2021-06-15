@@ -82,7 +82,7 @@ These are my  notes for Code Fellows readings and videos for courses 102-401.
 
 [401 - Prep Readings](401-prep.md)
 
-[401 - Reading: Class 01](304-01.md)
+[401 - Reading: Class 01](401-01.md)
 
 ## About Me
 
