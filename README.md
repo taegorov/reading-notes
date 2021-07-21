@@ -114,6 +114,8 @@ These are my  notes for Code Fellows readings and videos for courses 102-401.
 
 [401 - Reading: Class 16](401-16.md)
 
+[401 - Reading: Class 17](401-17.md)
+
 ## About Me
 
 My name is Tim (or Timofey) Egorov. I was born in Moscow, Russia, and moved to the United States when I was 4 years old. 
